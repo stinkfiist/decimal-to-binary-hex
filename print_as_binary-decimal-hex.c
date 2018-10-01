@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* Prints decimal as binary or hexadecimal. */
+
 void binary(int x);
 
 int main()
