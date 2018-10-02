@@ -17,7 +17,7 @@ int main() // Main function
 			printf("Please indicate your selection (1 for binary, 2 for decimal, 3 for hexadecimal): ");
 			scanf("%i", &selection);
 				
-			switch(selection)
+			switch(selection) //Switch case declaration
 			{
 				case 1: 
 					printf("The number you entered as binary: ");
