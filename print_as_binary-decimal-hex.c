@@ -4,7 +4,7 @@
 
 void binary(int x);
 
-int main()
+int main() // Main function
 {
 	int number, selection;
 	
