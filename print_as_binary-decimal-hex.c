@@ -2,7 +2,7 @@
 
 /* Prints decimal as binary or hexadecimal. */
 
-void binary(int x);
+void binary(int x); // Binary function initialization.
 
 int main() // Main function
 {
