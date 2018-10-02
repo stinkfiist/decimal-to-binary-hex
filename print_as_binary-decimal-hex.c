@@ -44,7 +44,7 @@ int main() // Main function
 	return 0;
 }
 
-void binary(int x)
+void binary(int x) // Binary function declaration.
 {
 	int i, quotient0, quotient1, quotient2, quotient3, array[4];
 	
